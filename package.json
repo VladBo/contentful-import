@@ -1,0 +1,19 @@
+{
+  "name": "contentful-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "contentful-management": "^10.20.1",
+    "csv-parse": "^5.3.2",
+    "dotenv": "^16.0.3",
+    "minimist": "^1.2.7",
+    "yargs": "^17.6.2"
+  }
+}
